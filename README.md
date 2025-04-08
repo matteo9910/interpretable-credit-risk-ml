@@ -54,12 +54,6 @@ All models were evaluated using:
 - Feature importance analysis
 - Interpretability insights (where applicable)
 
-## Project Structure
-
-
-
-
-
 ## Notes on Interpretability
 
 - Decision Trees and Logistic Regression provided valuable, interpretable insights.
